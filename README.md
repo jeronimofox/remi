@@ -173,6 +173,8 @@ Personal license is for you only giving full access to the all features.
 - Get data for parents while there are a kid getting their :)
 - Get group(family) consultations
 
+
+
 ALL RIGHTS ON THIS IDEA AND PROJECT BELONGS TO : 
 ___
 SHOLOMKO ANDRII VOLODYMYROVYCH.

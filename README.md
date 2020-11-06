@@ -175,12 +175,12 @@ Personal license is for you only giving full access to the all features.
 
 
 
-ALL RIGHTS ON THIS IDEA AND PROJECT BELONGS TO : 
-___
-SHOLOMKO ANDRII VOLODYMYROVYCH.
-- sholomko.andy@gmail.com
-- t.me/austin_haward
-- github.com/jeronimofox
-___
-NOT ANY OTHER PERSON IS INCLUDED TO THIS PROJECT : REMI-MEDSET AND SERVICE
+		ALL RIGHTS ON THIS IDEA AND PROJECT BELONGS TO : 
+		___
+		SHOLOMKO ANDRII VOLODYMYROVYCH.
+		- sholomko.andy@gmail.com
+		- t.me/austin_haward
+		- github.com/jeronimofox
+		___
+		NOT ANY OTHER PERSON IS INCLUDED TO THIS PROJECT : REMI-MEDSET AND SERVICE
 
